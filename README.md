@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkyCity Restaurant Growth Potential Modeling & Strategic Classification
 
 ## Setup (once)
@@ -20,3 +21,6 @@
     figures/     charts used in the paper
     reports/     research paper and executive summary (.docx)
     app.py       Streamlit dashboard
+=======
+# Unified-Mentor-Project-02
+>>>>>>> 87f47d0af2aef12c21c0f071a41b3df76d169f69
