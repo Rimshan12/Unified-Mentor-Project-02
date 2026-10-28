@@ -1,0 +1,37 @@
+{
+  "n_restaurants": 1696,
+  "pca_components": 6,
+  "pca_variance_explained": [
+    0.30550045591615577,
+    0.20812317616373854,
+    0.17243583251161232,
+    0.10013242491156354,
+    0.06360814918875102,
+    0.05544823164066526
+  ],
+  "pca_cumulative_used": 0.9052482703324864,
+  "chosen_k": 6,
+  "cluster_to_label": {
+    "0": "Aggregator-Dependent Low Margin",
+    "1": "Operationally Strong, Under-Scaled",
+    "2": "Overextended, Low Return",
+    "3": "High-Growth / High-Risk",
+    "4": "Stable Local Performers",
+    "5": "Scalable Self-Delivery Leaders"
+  },
+  "rf_cluster_accuracy": 0.9599056603773585,
+  "robustness": {
+    "kmeans_vs_hierarchical_ARI": 0.6155012069004696,
+    "kmeans_vs_dbscan_ARI": -0.0007481780543044801,
+    "dbscan_eps": 2.343308940475182,
+    "dbscan_clusters": 1,
+    "dbscan_noise_share": 0.010023584905660377,
+    "kmeans_silhouette": 0.19544130172487076,
+    "hierarchical_silhouette": 0.17776857800976648
+  },
+  "recommendation_counts": {
+    "Hold / Stabilize": 628,
+    "Optimize": 560,
+    "Rebalance channels": 508
+  }
+}
